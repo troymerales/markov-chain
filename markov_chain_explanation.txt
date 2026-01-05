@@ -1,0 +1,66 @@
+================================================================================
+CODE EXPLANATION: proj.py AND markov.py SCRIPTS
+================================================================================
+
+To numerically construct the model, we divide the tasks into two main parts:
+the extraction and then the computation.
+
+================================================================================
+proj.py: EXTRACTION PHASE
+================================================================================
+
+First, we have this script. It opens the "cases" folder and reads iteratively
+each case's raw text. These are then passed to a Large Language Model using
+API to identify and extract citation titles from text. It maintains the order
+in which citations appear in the document. It then classifies each citation
+by finding keywords and patterns. To make it easier to work with, we normalize
+each title. For example, "Rule 51 Section 3" becomes "R51S3", and "Article 3
+Section 2" becomes "C3S2". The citation title and type sequences are saved to
+JSON files for the computation part later.
+
+The script produces four output files:
+- title_sequence.json: Sequences of normalized citation titles (one sequence per case)
+- types_sequence.json: Sequences of citation type classifications (one sequence per case)
+- title_sequence_flat.json: Single flat list of all citation titles
+- types_sequence_flat.json: Single flat list of all citation types
+
+Each citation is classified into one of four types: Constitution, Statute,
+Jurisprudence, or Administrative rule. Citations that don't match these
+categories are excluded from the sequences.
+
+================================================================================
+markov.py: COMPUTATION PHASE
+================================================================================
+
+The next script handles the computation. It reads the citation sequences from
+the JSON files and constructs a Markov chain transition probability matrix.
+This matrix stores the probability of transitioning from one citation type to
+another, computed by counting how often each transition occurs in the data and
+normalizing these counts to probabilities.
+
+The script provides three main features:
+
+1. TOP K PREDICTIONS:
+   Given a current citation type, it predicts the most likely next citations
+   with confidence percentages. For example, after "Jurisprudence", it might
+   predict "Jurisprudence" (63%), "Constitution" (17%), or "Statute" (8%).
+
+2. SEQUENCE GENERATION:
+   It generates new citation sequences following the learned patterns. Starting
+   from a given citation type, it randomly selects the next citations based on
+   the transition probabilities, creating realistic sequences of specified length.
+
+3. MULTI-STEP TRANSITION MATRICES:
+   It computes transition probabilities after multiple steps (M² for 2-step,
+   M³ for 3-step) to analyze long-term patterns. These matrices show where the
+   chain is likely to be after 2 or 3 citations, revealing broader patterns
+   in citation sequences.
+
+The script also generates visualizations in the form of heatmaps, displaying
+the transition matrices as color-coded probability maps. These are saved as
+JPG images for easy analysis. The computed Markov chains can be saved and
+reloaded to avoid recomputation when analyzing the same data.
+
+================================================================================
+END OF DOCUMENT
+================================================================================

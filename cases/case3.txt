@@ -1,0 +1,82 @@
+G.R. No. 212740, November 13, 2019
+
+SPOUSES CELIA FRANCISCO AND DANILO FRANCISCO, PETITIONERS, v. ALBINA D. BATTUNG, RESPONDENT.
+
+
+
+Ruling of the Court
+
+This Court finds the instant petition unmeritorious.
+
+The CA was not precluded to rule on the true nature of the Deed as the principles of the law of the case, res judicata, and immutability of judgments are not applicable in this case.
+
+As to the first issue, petitioners contend that another division of the CA in CA G.R. SP No. 85819 already ruled that the Deed was a contract of sale and not a contract to sell and as such, the principles of the law of the case, res judicata, and immutability of judgments bar the reopening of the issue on the real nature of the Deed.39
+
+The Court is not persuaded.
+
+Law of the case is the opinion rendered on a former appeal.40 It dictates that whatever is once permanently established as the controlling legal rule of decision involving the same parties in the same case persists to be the law of the case regardless of the correctness on general principles so long as the facts on which such decision was premised remain to be the facts of the case before the court.41 Simply stated, the ruling of the appellate court cannot be deviated from in the subsequent proceedings in the same case.42 It applies only to the same case.43
+
+As correctly found by the CA, the application of the principle of the law of the case is misplaced. While the petitioners' action for specific performance and respondent's action for unlawful detainer, which was the subject of CA G.R. SP No. 85819, involve a similar set of facts, these are two different cases. Thus, whatever ensuing incident in the petitioners' action for specific performance cam1ot be considered a subsequent proceeding in CA G.R. SP No. 85819.
+
+Meanwhile, the doctrine of res judicata provides that "a final judgment or decree on the merits by a court of competent jurisdiction of the rights of the parties is conclusive of the rights of the parties or their privies in all later suits on all points and matters determined in the former suit."44 Said final judgment becomes conclusive as to the rights of the parties and their privies and serves as an absolute bar to subsequent actions involving the same claim, demand, or cause of action.45
+
+In this case, the doctrine of res judicata is also not applicable. While there is an identity of parties in the action for unlawful detainer and action for specific performance, there is no identity of the claims, demands, and causes of action. As aptly noted by the CA, the action for unlawful detainer dealt with the issue of possession and any pronouncement on the title or ownership over the subject land is merely provisional while the action for specific performance involved the determination of the rights over the subject land of the petitioners and respondent under the Deed.46 Thus, the ruling inCA G.R. SP No. 85819 is not conclusive of the rights of petitioners and respondent in the action for specific performance.
+
+Along the same line, the doctrine of finality of judgment or immutability of judgments provides that once a decision has acquired finality, it becomes immutable, unalterable, and may no longer be modified in any aspect, regardless if the modification is meant to correct erroneous factual and legal conclusions and if it be made by the court that rendered it or by this Court.47
+
+Similarly, said doctrine of finality of judgment or immutability of judgments does not apply in this case. In Sps. Diu v. Ibajan,48 this Court held that in detainer, being a mere quieting process, the issues on real property are incidentally discussed and the court may only make an initial determination of ownership so as to resolve possession in the absence of evidence on the latter. Nonetheless, this determination of ownership is "not clothed with finality" and will not "constitute a binding and conclusive adjudication on the merits with respect to the issue of ownership."49
+
+In the present case, the nature of the Deed was incidentally passed upon in the action for unlawful detainer to determine the rights of petitioners and respondent relative to the ownership of the subject land so as to determine who is entitled to possession thereto. Then again, such determination of ownership based on the Deed is provisional, thus, not a conclusive adjudication on the merits of the case. Thus, the CA was not precluded to revisit the issue on the nature of the Deed and make its ascertainment based on the facts and evidence on record.
+
+The CA appropriately revived the issue on the true nature of the Deed, considering that the determination of the same was necessary for the complete and just resolution of the case.
+
+With respect to the second issue, petitioners argue that they were the ones who filed the partial appeal of the RTC Decision with the CA assailing only the correct amount of the balance of the purchase price, the correct interest rate, and the correct interest period. They asserted that the matter concerning the nature of the Deed as a contract of sale was not an assigned error and as such, the CA should not have considered it.50
+
+Section 8, Rule 51, of the Rules of Court provides that as a general rule, only matters assigned as errors in the appeal may be resolved. As an exception thereto, the CA may review errors that are not assigned but are closely related to or dependent on an assigned error and is given discretion if it finds that the consideration of such is necessary for a complete and just resolution of the case.51
+
+Applying the foregoing to this case, the determination of the nature of the Deed was indeed necessary for the complete and just resolution of the case. After all, establishing the true nature of the Deed would set forth the contractual rights and obligations of petitioners and respondent. It would clarify who is legally vested with the ownership of the subject land. Consequently, the CA cannot be faulted for re-examining the contractual relations of petitioners and respondent based on the Deed.
+
+At this juncture, it is imperative for the Court to finally conclude the true nature of the Deed. Based on the provisions of the Deed, the CA is correct in ruling that the Deed is a contract to sell and not a contract of sale.
+
+In Diego v. Diego,52 the Court held that an agreement stipulating that the execution of the deed of sale shall be contingent on the full payment of the purchase price is a contract to sell, thus:
+It is settled jurisprudence, to the point of being elementary, that an agreement which stipulates that the seller shall execute a deed of sale only upon or after full payment of the purchase price is a contract to sell, not a contract of sale. In Reyes v. Tuparan, this Court declared in categorical terms that "[w]here the vendor promises to execute a deed of absolute sale upon the completion by the vendee of the payment of the price, the contract is only a contract to sell. The aforecited stipulation shows that the vendors reserved title to the subject property until full payment of the purchase price."
+
+In this case, it is not disputed as in fact both parties agreed that the deed of sale shall only be executed upon payment of the remaining balance of the purchase price. Thus, pursuant to the above stated jurisprudence, we similarly declare that the transaction entered into by the parties is a contract to sell.53 (Citation omitted)
+Clause 2(b) of the Deed readily reveals that respondent shall only execute the Deed and transfer the title over the subject land in favor of petitioners upon full payment of the purchase price:
+b.
+That the Deed of absolute sale of the above-described lot shall only be executed in favor of the vendee upon the full payment of the full (sic) amount of the purchase price in the amount of P346,400.00 and after which the title shall be transferred in the name of the vendee.54
+Resultantly, given that the ownership over the subject land was retained by respondent until full payment by "petitioners of the purchase price," the Deed is a contract to sell.
+
+Petitioners cannot avail of the rights of the buyer under Section 3 of RA No. 6552 because they did not diligently and consistently satisfy the legal requirement of paying at least two (2) years of installments.
+
+Regarding the third issue, petitioners assert that granting that the Deed was a contract to sell and given that the subject land is a residential lot and that respondent received in open court the sum of P107,560.00 in consideration of the Deed, RA No. 6552 would apply. Thus, they claim that before the Deed was cancelled, the following requirements under Section 3 thereof should have been complied with: (1) receipt by the buyer of the notice of cancellation or the demand for rescission of the contract by notarial act and (2) full payment of the cash surrender value to the buyer. They point out that these requisites were not satisfied in this case.55
+
+RA No. 6552 expressly grants the buyer, who must have paid at least two (2) years of installments, the following rights:
+Section 3. In all transactions or contracts involving the sale or financing of real estate on installment payments, including residential condominium apartments but excluding industrial lots, commercial buildings and sales to tenants under Republic Act Numbered Thirty-eight hundred forty-four, as amended by Republic Act Numbered Sixty-three hundred eighty-nine, where the buyer has paid at least two years of installments, the buyer is entitled to the following rights in case he defaults in the payment of succeeding installments:
+
+(a) To pay, without additional interest, the unpaid installments due within the total grace period earned by him which is hereby fixed at the rate of one month grace period for every one year of installment payments made: Provided, That this right shall be exercised by the buyer only once in every five years of the life of the contract and its extensions, if any. (b) If the contract is canceled, the seller shall refund to the buyer the cash surrender value of the payments on the property equivalent to fifty per cent of the total payments made, and, after five years of installments, an additional five per cent every year but not to exceed ninety per cent of the total payments made: Provided, That the actual cancellation of the contract shall take place after thirty days from receipt by the buyer of the notice of cancellation or the demand for rescission of the contract by a notarial act and upon full payment of the cash surrender value to the buyer.
+
+Down payments, deposits or options on the contract shall be included in the computation of the total number of installment payments made. (Emphasis supplied)
+In Orbe v. Filinvest Land, Inc.,56 the Court emphasized that "at least two years of installments" means the "equivalent of the totality of payments diligently or consistently made throughout a period of two (2) years,"
+When Section 3 speaks of paying "at least two years of installments," it refers to the equivalent of the totality of payments diligently or consistently made throughout a period of two (2) years. Accordingly, where installments are to be paid on a monthly basis, paying "at least two years of installments" pertains to the aggregate value of 24 monthly installments. As explained in Gatchalian Realty v. Angeles:
+
+It should be noted that Section 3 of R.A. 6552 and paragraph six of Contract Nos. 2271 and 2272, speak of "two years of installments." The basis for computation of the term refers to the installments that correspond to the number of months of payments, and not to the number of months that the contract is in effect as well as any grace period that has been given. Both the law and the contracts thus prevent any buyer who has not been diligent in paying his monthly installments tom unduly claiming the rights provided in Section 3 of R.A. 6552. (Emphasis supplied)
+
+The phrase "at least two years of installments" refers to value and time. It does not only refer to the period when the buyer has been making payments, with total disregard for the value that the buyer has actually conveyed. It refers to the proportionate value of the installments made, as well as payments having been made for at least two (2) years.
+
+Laws should never be so interpreted as to produce results that are absurd or unreasonable. Sustaining petitioner's contention that spe falls within Section 3's protection just because she has been paying for more than two (2) years goes beyond a justified, liberal construction of the Maceda Law. It facilitates arbitrariness, as intermittent payments of fluctuating amounts would become permissible, so long as they stretch for two (2) years. Worse, it condones an absurdity. It sets a precedent that would endorse minimal, token payments that extend for two (2) years. A buyer could, then, literally pay loose change for two (2) years and still come under Section 3's protection.57 (Citation omitted)
+In this case, petitioners did not diligently and consistently pay at least two (2) years of monthly installments. As pointed by the CA, instead of paying P5,000.00 monthly effective March 30, 1997, they merely paid small amounts, i.e., P300.00, P500.00, P700.00, P1,000.00, P1,500.00, P2,000.00, or P2,500.00, from time to time, thus:
+In fact, there is evidence showing that [petitioners] were unable to pay the amount due within the period fixed in the Deed. Instead of paying P5,000.00 monthly effective March 30, 1997 until the amount of P173,000.00, representing one-half (1/2) of the purchase price, is paid, they failed to complete it and only paid small amounts, i.e., P300, P500, P700, P1,000.00, P1,500.00, P2,000.00, or P2,500.00, from time-to-time. [Celia] also admitted, on cross-examination, that she failed to complete the payment of P173,000.00 corresponding to the other half of the purchase price that fell due on December 30, 1999.58
+Clearly, petitioners are unjustifiably claiming their rights under Section 3 of R.A. No. 6552. They failed to faithfully comply with the requirement of paying their monthly installments for two (2) years and yet they have the audacity to invoke Section 3. Treating the receipt by respondent in open court of the sum of P107,560.00 in consideration of the Deed as substantial compliance by petitioners of the provisions of Section 3 would be unfair and defiant of the purpose of RA No. 6552. It would tolerate arbitrariness on the part of the buyer when satisfying his monetary obligations to the seller.
+
+There could no longer be a performance of the Deed upon petitioners' failure to pay the purchase price of the subject land in accordance with the terms of the Deed.
+
+Anent the last issue, petitioners claim that the receipt by the respondent of the sum of P107,650.00 constitutes partial performance of the Deed, indicating that as between the parties, the Deed was subsisting and has never been rescinded, contrary to the findings of the CA that it was ineffective and without force and effect.
+
+In Ayala Life Assurance, Inc. v. Ray Burton Development Corporation,59 the Court held that the payment by the buyer of purchase price is a positive suspensive condition and the non-fulfillment of which is an event that prevents the seller from conveying title to the buyer. Said nonï¿½payment of the purchase price renders the contract to sell ineffective and without force and effect.60 Therefore, a cause of action for specific performance does not arise.61
+
+Here, petitioners failed to realize that there could no longer be a performance, not even partial, of the Deed the moment that they failed to pay the purchase price of the subject land in accordance with the terms of the Deed. It is worthy to note that at the time of the receipt by the respondent of the sum of P107,650.00, the Deed was already without force and effect. Thus, there could have been no partial performance, let alone a cause of action for specific performance.
+
+WHEREFORE, the petition is DENIED. The Decision dated September 19, 2013 and the Resolution dated May 13, 2014 of the Court of Appeals in CA-G.R. CV No. 93745 are hereby AFFIRMED.
+
+SO ORDERED.

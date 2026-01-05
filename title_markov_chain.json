@@ -1,0 +1,230 @@
+{
+  "R45": {
+    "Quijano v. Atty. Amante": 1.0
+  },
+  "Quijano v. Atty. Amante": {
+    "Suarez v. Sps. Emboy": 1.0
+  },
+  "Suarez v. Sps. Emboy": {
+    "Dr. Carbonilla v. Abiera, et al.": 1.0
+  },
+  "Dr. Carbonilla v. Abiera, et al.": {
+    "Jose v. Alfuerto, et al.": 1.0
+  },
+  "Jose v. Alfuerto, et al.": {
+    "Go, Jr. v. CA": 1.0
+  },
+  "Go, Jr. v. CA": {
+    "Spouses Munoz v. CA": 1.0
+  },
+  "C1434": {
+    "C1141": 1.0
+  },
+  "Co v. Militar": {
+    "Tenio-Obsequio v. Court of Appeals": 0.3333333333333333,
+    "Umpoc v. Mercado": 0.6666666666666666
+  },
+  "Tenio-Obsequio v. Court of Appeals": {
+    "Pascual v. Coronel": 1.0
+  },
+  "Pascual v. Coronel": {
+    "Co v. Militar": 0.6666666666666666,
+    "C777": 0.3333333333333333
+  },
+  "Umpoc v. Mercado": {
+    "Arambulo v. Gungab": 1.0
+  },
+  "Arambulo v. Gungab": {
+    "Vda. de Aguilar v. Alfaro": 0.3333333333333333,
+    "Pascual v. Coronel": 0.3333333333333333,
+    "Manila Electric Company v. Heirs of Deloy": 0.3333333333333333
+  },
+  "Vda. de Aguilar v. Alfaro": {
+    "Arambulo v. Gungab": 1.0
+  },
+  "Manila Electric Company v. Heirs of Deloy": {
+    "Pascual v. Coronel": 1.0
+  },
+  "C777": {
+    "Vda. de Legaspi v. Avenda\u00ef\u00bf\u00bdo": 1.0
+  },
+  "Sps. Diu v. Ibajan": {
+    "R51S8": 1.0
+  },
+  "R51S8": {
+    "Diego v. Diego": 1.0
+  },
+  "Diego v. Diego": {
+    "Reyes v. Tuparan": 1.0
+  },
+  "Reyes v. Tuparan": {
+    "R51S3": 1.0
+  },
+  "R51S3": {
+    "R51S3": 0.5,
+    "Orbe v. Filinvest Land, Inc.": 0.25,
+    "Ayala Life Assurance, Inc. v. Ray Burton Development Corporation": 0.25
+  },
+  "Orbe v. Filinvest Land, Inc.": {
+    "Gatchalian Realty v. Angeles": 1.0
+  },
+  "Gatchalian Realty v. Angeles": {
+    "RA6552": 1.0
+  },
+  "RA6552": {
+    "RA6552": 0.75,
+    "Section 3 of R.A. No. 6552": 0.25
+  },
+  "Section 3 of R.A. No. 6552": {
+    "R.A. No. 6552": 1.0
+  },
+  "R.A. No. 6552": {
+    "R51S3": 1.0
+  },
+  "Cabrera v. Getaruela": {
+    "Zacarias v. Anacay": 1.0
+  },
+  "Zacarias v. Anacay": {
+    "Nu\u00ef\u00bf\u00bdez v. Slteas Phoenix Solutions, Inc.": 1.0
+  },
+  "R52S4": {
+    "Tagaytay City v. Sps. De Los Reyes": 1.0
+  },
+  "Tagaytay City v. Sps. De Los Reyes": {
+    "R52S2": 1.0
+  },
+  "R52S2": {
+    "Securities and Exchange Commission v. PICOP Resources, Inc.": 1.0
+  },
+  "Securities and Exchange Commission v. PICOP Resources, Inc.": {
+    "Tagle v. Equitable PCI Bank": 1.0
+  },
+  "Tagle v. Equitable PCI Bank": {
+    "R37": 1.0
+  },
+  "R37": {
+    "Roxas v. Court of Appeals": 1.0
+  },
+  "Roxas v. Court of Appeals": {
+    "BP877": 1.0
+  },
+  "BP877": {
+    "Roxas v. Intermediate Appellate Court": 0.5,
+    "Garcia v. Court of Appeals": 0.5
+  },
+  "Roxas v. Intermediate Appellate Court": {
+    "R37S5": 1.0
+  },
+  "R37S5": {
+    "C1687": 1.0
+  },
+  "C1687": {
+    "Arquelada v. Philippine Veterans Bank": 1.0
+  },
+  "Arquelada v. Philippine Veterans Bank": {
+    "BP877": 1.0
+  },
+  "CIIIS9": {
+    "Land Bank of the Philippines v. Orilla": 1.0
+  },
+  "Land Bank of the Philippines v. Orilla": {
+    "Republic v. Court of Appeals": 1.0
+  },
+  "Republic v. Court of Appeals": {
+    "National Power Corporation v. Angas": 0.25,
+    "Land Bank of the Philippines v. Imperial": 0.25,
+    "Reyes v. National Housing Authority": 0.25,
+    "C1229": 0.25
+  },
+  "National Power Corporation v. Angas": {
+    "Reyes v. National Housing Authority": 1.0
+  },
+  "Reyes v. National Housing Authority": {
+    "Land Bank of the Philippines v. Wycoco": 0.5,
+    "Land Bank of the Philippines v. Imperial": 0.5
+  },
+  "Land Bank of the Philippines v. Wycoco": {
+    "Republic v. Court of Appeals": 1.0
+  },
+  "Land Bank of the Philippines v. Imperial": {
+    "Philippine Ports Authority v. Rosales-Bondoc": 0.5,
+    "Republic v. Court of Appeals": 0.5
+  },
+  "Philippine Ports Authority v. Rosales-Bondoc": {
+    "Curata v. Philippine Ports Authority": 1.0
+  },
+  "Curata v. Philippine Ports Authority": {
+    "Republic v. Court of Appeals": 1.0
+  },
+  "C1229": {
+    "San Miguel Corporation v. National Labor Relations Commission": 1.0
+  },
+  "San Miguel Corporation v. National Labor Relations Commission": {
+    "Galman v. Sandiganbayan": 1.0
+  },
+  "Galman v. Sandiganbayan": {
+    "Philippine Consumers Foundation v. National Telecommunications Commission": 1.0
+  },
+  "Philippine Consumers Foundation v. National Telecommunications Commission": {
+    "Republic v. de los Angeles": 1.0
+  },
+  "Republic v. de los Angeles": {
+    "Vir-Jen Shipping and Marine Services v. National Labor Relations Commission": 1.0
+  },
+  "Vir-Jen Shipping and Marine Services v. National Labor Relations Commission": {
+    "Cathay Pacific v. Romillo": 1.0
+  },
+  "Cathay Pacific v. Romillo": {
+    "Cosio v. de Rama": 1.0
+  },
+  "Cosio v. de Rama": {
+    "Munoz v. Court of Appeals": 1.0
+  },
+  "Munoz v. Court of Appeals": {
+    "Tan Tiac Chiong v. Hon. Cosico": 1.0
+  },
+  "Tan Tiac Chiong v. Hon. Cosico": {
+    "Manotok IV v. Barque": 1.0
+  },
+  "Manotok IV v. Barque": {
+    "Barnes v. Padilla": 1.0
+  },
+  "Barnes v. Padilla": {
+    "Ginete v. Court of Appeals": 1.0
+  },
+  "Ginete v. Court of Appeals": {
+    "de Guzman v. Sandiganbayan": 1.0
+  },
+  "C1318": {
+    "C1358": 1.0
+  },
+  "C1358": {
+    "C1403": 1.0
+  },
+  "C1403": {
+    "C1403": 0.5,
+    "C1191": 0.5
+  },
+  "C1191": {
+    "C1592": 1.0
+  },
+  "C1592": {
+    "C1592": 0.5,
+    "C1169": 0.5
+  },
+  "C1169": {
+    "Vda. de Cabrera v. CA": 1.0
+  },
+  "Vda. de Cabrera v. CA": {
+    "Mejia de Lucas v. Gamponia": 1.0
+  },
+  "Mejia de Lucas v. Gamponia": {
+    "C1134": 1.0
+  },
+  "C1134": {
+    "C1141": 1.0
+  },
+  "C1141": {
+    "Eastern Shipping Lines, Inc. v. CA": 1.0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Administrative rule": {
+    "Jurisprudence": 0.7,
+    "Administrative rule": 0.2,
+    "Constitution": 0.1
+  },
+  "Jurisprudence": {
+    "Jurisprudence": 0.8135593220338984,
+    "Constitution": 0.05084745762711865,
+    "Administrative rule": 0.0847457627118644,
+    "Statute": 0.05084745762711865
+  },
+  "Constitution": {
+    "Constitution": 0.6,
+    "Jurisprudence": 0.4
+  },
+  "Statute": {
+    "Statute": 0.625,
+    "Administrative rule": 0.125,
+    "Jurisprudence": 0.25
+  }
+}
