@@ -112,7 +112,7 @@ def calculate_multi_step_matrix(chain, steps=2, predefined_states=None):
     
     return result_matrix, states, state_to_idx, idx_to_state
 
-def print_markov_matrix(chain, predefined_states=None, title="Markov Matrix", heatmap=True, save_path=None, max_rows=None, max_cols=None):
+def print_markov_matrix(chain, predefined_states=None, title="Markov Matrix", heatmap=True, save_path=None, max_rows=None, max_cols=None, print_full=False, chunk_size=20):
     # Use predefined states if given; else extract from chain
     if predefined_states:
         states = predefined_states
@@ -156,21 +156,44 @@ def print_markov_matrix(chain, predefined_states=None, title="Markov Matrix", he
         # Apply same order to both rows and columns
         df = df.loc[sorted_states, sorted_states]
     
-    # Limit rows and columns if specified
-    # Keep rows and columns aligned (same states in same order)
-    if max_rows is not None or max_cols is not None:
+    # Store full dataframe for chunked printing
+    df_full = df.copy()
+    
+    # Limit rows and columns if specified (and not printing full)
+    if not print_full and (max_rows is not None or max_cols is not None):
+        # Keep rows and columns aligned (same states in same order)
         # Use the minimum of max_rows and max_cols to keep them aligned
         # If only one is specified, use that value for both
         limit = max_rows if max_cols is None else (max_cols if max_rows is None else min(max_rows, max_cols))
         df = df.iloc[:limit, :limit]
     
     print(f"\n=== {title} ===")
-    print(df)
+    if print_full:
+        # Print full matrix in chunks
+        total_rows = len(df_full)
+        total_cols = len(df_full.columns)
+        print(f"Full matrix size: {total_rows} rows × {total_cols} columns")
+        print("Printing in chunks:\n")
+        
+        # Print row chunks
+        for row_start in range(0, total_rows, chunk_size):
+            row_end = min(row_start + chunk_size, total_rows)
+            # Print column chunks for each row chunk
+            for col_start in range(0, total_cols, chunk_size):
+                col_end = min(col_start + chunk_size, total_cols)
+                print(f"\n--- Rows {row_start+1}-{row_end} / Columns {col_start+1}-{col_end} ---")
+                chunk_df = df_full.iloc[row_start:row_end, col_start:col_end]
+                print(chunk_df)
+                print()
+    else:
+        print(df)
     
     # Optional heatmap visualization
     if heatmap:
-        plt.figure(figsize=(8,6))
-        sns.heatmap(df, annot=True, cmap="Blues")
+        # Use limited df for heatmap to keep it readable
+        heatmap_df = df if not print_full else df_full.iloc[:50, :50]  # Limit heatmap to 50x50 for readability
+        plt.figure(figsize=(max(8, len(heatmap_df.columns)*0.5), max(6, len(heatmap_df)*0.3)))
+        sns.heatmap(heatmap_df, annot=True, cmap="Blues", fmt='.3f')
         plt.title(title)
         if save_path:
             plt.savefig(save_path, format='jpg', dpi=300, bbox_inches='tight')
@@ -299,7 +322,7 @@ def main():
     print("\n" + "="*70)
     print("STEP 1: Transition Matrices")
     print("="*70)
-    print_markov_matrix(titles_mc, title="Title Transition Matrix M^1", max_rows=10, max_cols=10, save_path="titles_heatmap.jpg")
+    print_markov_matrix(titles_mc, title="Title Transition Matrix M^1", print_full=True, chunk_size=20, save_path="titles_heatmap.jpg")
     print_markov_matrix(types_mc, predefined_states=["Constitution", "Statute", "Jurisprudence", "Administrative rule"], 
                         title="Type Transition Matrix M^1", save_path="types_heatmap.jpg")
     
