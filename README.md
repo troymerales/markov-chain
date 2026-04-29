@@ -2,8 +2,6 @@
 
 Two-stage pipeline for **Philippine legal opinion text**: extract ordered citations with the Gemini API, then build **first-order Markov chains** on normalized citation titles and citation *types* (transitions, synthetic sequences, heatmaps).
 
-> **GitHub not showing this README?** Save it as **UTF-8** (in VS Code / Cursor: status bar encoding → “Save with Encoding” → UTF-8). **UTF-16** inserts null bytes, so Git labels the file *binary* and GitHub often **skips rendering** it on the repo home page. Also: the file must be named exactly `README.md`, live in the **repository root** (next to `.git`), be **committed**, and pushed to your **default branch** (usually `main`). If your remote repo is a parent folder and this project lives only in a subfolder, GitHub will not use `subfolder/README.md` as the main page—use the repo whose root is `git rev-parse --show-toplevel`.
-
 ---
 
 ## What it does
